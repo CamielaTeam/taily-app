@@ -22,4 +22,9 @@
         android:name="com.example.taily.ui.appointments.AppointmentsFragment"
         android:label="@string/title_appointments"
         tools:layout="@layout/fragment_pets" />
+    <fragment
+        android:id="@+id/navigation_treatments"
+        android:name="com.example.taily.ui.treatments.TreatmentsFragment"
+        android:label="@string/title_treatments"
+        tools:layout="@layout/fragment_treatments" />
 </navigation>
