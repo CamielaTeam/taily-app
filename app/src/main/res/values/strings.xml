@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Taily</string>
     <string name="title_home">Inicio</string>
-    <string name="title_dashboard">Mascotas</string>
-    <string name="title_notifications">Citas</string>
+    <string name="title_pets">Mascotas</string>
+    <string name="title_treatments">Tratamientos</string>
+    <string name="title_appointments">Citas</string>
     <string name="tail">Tail</string>
     <string name="chloe">Chloe</string>
     <string name="next_appointments">Próximas citas</string>
@@ -13,4 +14,6 @@
     <string name="treatment_dates">Empieza 25 Feb 2023 | Finaliza 25 Feb 2023</string>
     <string name="appointment_place">Doc Jenifer</string>
     <string name="appointment_date">25 feb 2023 | 8:00am</string>
+
+
 </resources>
