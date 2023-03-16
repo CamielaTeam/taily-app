@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.taily.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_pets"
+        android:name="com.example.taily.ui.pets.PetsFragment"
+        android:label="@string/title_pets"
+        tools:layout="@layout/fragment_pets" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.taily.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_appointments"
+        android:name="com.example.taily.ui.appointments.AppointmentsFragment"
+        android:label="@string/title_appointments"
+        tools:layout="@layout/fragment_pets" />
 </navigation>
