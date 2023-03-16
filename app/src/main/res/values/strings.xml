@@ -11,7 +11,9 @@
     <string name="next_treatments">Tratamientos</string>
     <string name="appointment">Cita médica</string>
     <string name="prednisolone">Prednisolona</string>
+    <string name="hemolitan">Hemolitan</string>
     <string name="treatment_frequency">2 tabletas | Cada 24 horas</string>
+    <string name="treatment_frequency2">5 gotas | Cada 12 horas</string>
     <string name="treatment_dates">Empieza 25 Feb 2023 | Finaliza 25 Feb 2023</string>
     <string name="appointment_place">Doc Jenifer</string>
     <string name="appointment_date">25 feb 2023 | 8:00am</string>
